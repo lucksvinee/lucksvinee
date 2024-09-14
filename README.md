@@ -5,7 +5,7 @@ Olá, sejam todos bem vindos ao meu perfil.
 Estou começando na área de programação recentemente, irei estar atualizando meu perfil constantemente para vocês verem a minha evolução. 
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f0841b)](https://www.linkedin.com/in/lucksvinee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=f0841b)](https://www.linkedin.com/in/lucas-vinicios-inacio/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=f0841b)](https://www.instagram.com/lucas_hawk_/)
 
 ## Habilidades
