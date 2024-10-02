@@ -12,8 +12,9 @@ Estou começando na área de programação recentemente, irei estar atualizando 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucksvinee&theme=transparent&bg_color=000&border_color=379e19C&show_icons=true&icon_color=29db01&title_color=f0841b&text_color=FFF_tittle=true&hide=stars)
 
