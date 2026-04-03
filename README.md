@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Lucas! 👋
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitario Descomplica (Previsão de Formação: 2026). Sou um entusiasta de tecnologia focado em resolver problemas reais através do desenvolvimento web e automação.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitario Descomplica (Previsão de Formação: 2027 segundo semestre). Sou um entusiasta de tecnologia focado em resolver problemas reais através do desenvolvimento web e automação.
 
 ### 🛠️ Projetos em Desenvolvimento:
 - 📚 **Gestão de Biblioteca:** Desenvolvendo a interface moderna e intuitiva em **React** para um sistema escolar.
