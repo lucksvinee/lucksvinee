@@ -7,7 +7,6 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** no Centro Univers
 ### 🛠️ Projetos em Desenvolvimento:
 - 📚 **Gestão de Biblioteca:** Desenvolvendo a interface moderna e intuitiva em **React** para um sistema escolar.
 - 🌭 **Controle de Estoque:** Criando uma solução em **Python** para gestão de insumos (Projeto de Extensão Universitária).
-- 🚀 **Automação e Backend:** Explorando integrações com **Node.js** e bancos de dados relacionais.
 
 ---
 
