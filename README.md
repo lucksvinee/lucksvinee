@@ -13,6 +13,7 @@ Tenho desenvolvido projetos próprios e acadêmicos para praticar construção d
 ## Projetos em desenvolvimento
 
 ### Ficha Digital para Clínica de Estética
+
 Sistema para cadastro de clientes e ficha digital, desenvolvido com **Python** e **FastAPI**.
 
 O projeto inclui cadastro e busca de clientes, anamnese versionada, histórico de atendimentos, termos assinados, controle inicial de produtos utilizados e uma interface web para apresentação. Também conta com testes automatizados e cobertura de código acima de 85%.
@@ -27,6 +28,7 @@ O projeto inclui cadastro e busca de clientes, anamnese versionada, histórico d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### OrçaJá
+
 Aplicação em desenvolvimento para criação e organização de orçamentos.
 
 A ideia do projeto é facilitar o registro de clientes, serviços/produtos, valores e acompanhamento de propostas, usando uma interface simples e integração com Firebase.
@@ -39,6 +41,7 @@ A ideia do projeto é facilitar o registro de clientes, serviços/produtos, valo
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Controle de Estoque
+
 Projeto de extensão universitária voltado para controle de insumos, organização de produtos e apoio na gestão de estoque.
 
 **Tecnologias praticadas:**
@@ -87,8 +90,19 @@ Meu foco atual é entrar no mercado como **Desenvolvedor Júnior** ou **Trainee*
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucksvinee&theme=transparent&bg_color=000&border_color=14B8A6&show_icons=true&icon_color=14B8A6&title_color=F59E0B&text_color=FFF&include_all_commits=true&count_private=true" alt="Estatisticas do GitHub de Lucas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucksvinee&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=14B8A6&title_color=F59E0B&text_color=FFF" alt="Linguagens mais usadas por Lucas" />
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=lucksvinee&show_icons=true&include_all_commits=true&bg_color=000000&border_color=14B8A6&icon_color=14B8A6&title_color=F59E0B&text_color=FFFFFF"
+    alt="Estatísticas do GitHub de Lucas"
+  />
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucksvinee&layout=compact&langs_count=7&bg_color=000000&border_color=14B8A6&title_color=F59E0B&text_color=FFFFFF"
+    alt="Linguagens mais usadas por Lucas"
+  />
+
 </div>
 
 ---
@@ -98,11 +112,20 @@ Meu foco atual é entrar no mercado como **Desenvolvedor Júnior** ou **Trainee*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicios-inacio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_hawk_/)
 
+<br>
+
 <div align="center">
-  <p><strong>Visitantes</strong></p>
-  <img src="https://profile-counter.glitch.me/lucksvinee/count.svg" alt="Contador de visitantes" />
+
+### Visitantes
+
+<img
+  src="https://komarev.com/ghpvc/?username=lucksvinee&label=VISITANTES&color=14B8A6&style=for-the-badge"
+  alt="Contador de visitantes"
+/>
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=120&section=footer" alt="Footer" />
+<br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=120&section=footer" alt="Footer" />
 
