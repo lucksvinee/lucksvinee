@@ -28,13 +28,17 @@ Estou aprofundando conhecimento em **Spring Data JPA**, modelagem de dados relac
 
 ### Monster Gym
 
-Aplicativo PWA (progressive web app) para academias, desenvolvido em **Java**, com intenção de venda comercial no futuro.
+Aplicativo PWA (progressive web app) para academias, com backend em **Java** e frontend em **JavaScript**, e intenção de venda comercial no futuro.
 
 O projeto está com foco atual no cadastro de treinos e exercícios, estruturando a base para que academias organizem os planos de treino dos alunos dentro do app.
 
 **Tecnologias praticadas:**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Ficha Digital para Clínica de Estética
@@ -125,4 +129,3 @@ Quero atuar em um time onde eu possa aprender com pessoas mais experientes, evol
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=14B8A6&height=120&section=footer" alt="Footer" />
-
