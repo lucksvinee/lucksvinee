@@ -2,15 +2,40 @@
 
 # Olá, eu sou o Lucas Inácio!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário Descomplica, com formação prevista para **dezembro de 2026**.
+## Sobre mim
 
-Busco minha primeira oportunidade como **Desenvolvedor Júnior**, **Trainee em Tecnologia** ou **Assistente de Desenvolvimento de Software**, com foco em **Python**, **FastAPI**, **desenvolvimento web**, **testes automatizados** e integração com **Firebase**.
+Comecei minha trajetória em tecnologia consertando hardware e prestando suporte técnico, passei pela automação de processos dentro da gestão pública municipal, e hoje estou migrando de vez para o desenvolvimento de software — com foco em me tornar **Desenvolvedor Júnior Fullstack (Java + Spring)**.
 
-Tenho desenvolvido projetos próprios e acadêmicos para praticar construção de APIs, organização de regras de negócio, interfaces web, versionamento com Git e entrega de soluções simples para problemas reais.
+Construo projetos próprios para praticar construção de APIs, organização de regras de negócio, interfaces web e versionamento com Git, sempre buscando entregar soluções simples para problemas reais.
 
 ---
 
-## Projetos em desenvolvimento
+## Stack principal
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+Estou aprofundando conhecimento em **Spring Data JPA**, modelagem de dados relacionais com **PostgreSQL** e boas práticas de **testes automatizados** com **JUnit**, construindo a base necessária para atuar como desenvolvedor fullstack Java.
+
+---
+
+## Projetos em destaque
+
+### Monster Gym
+
+Aplicativo PWA (progressive web app) para academias, desenvolvido em **Java**, com intenção de venda comercial no futuro.
+
+O projeto está com foco atual no cadastro de treinos e exercícios, estruturando a base para que academias organizem os planos de treino dos alunos dentro do app.
+
+**Tecnologias praticadas:**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Ficha Digital para Clínica de Estética
 
@@ -40,50 +65,22 @@ A ideia do projeto é facilitar o registro de clientes, serviços/produtos, valo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Controle de Estoque
-
-Projeto de extensão universitária voltado para controle de insumos, organização de produtos e apoio na gestão de estoque.
-
-**Tecnologias praticadas:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Tecnologias que estou estudando e usando
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-Também estou tendo contato com **SQL**, **PostgreSQL/Supabase**, modelagem de dados e boas práticas de **testes automatizados**, principalmente testes unitários, testes de API e coverage.
-
 ---
 
 ## O que estou praticando agora
 
-- Criação de APIs com FastAPI.
-- Organização de regras de negócio em Python.
-- Testes automatizados com pytest.
-- Coverage para medir qualidade dos testes.
-- Interfaces web com HTML, CSS e JavaScript.
-- Firebase para autenticação, banco de dados e apoio em aplicações web.
+- Criação de APIs REST com Spring Boot.
+- Organização de regras de negócio em Java.
+- Testes automatizados com JUnit.
+- Interfaces web com JavaScript e React.
+- Modelagem de dados para banco relacional com PostgreSQL.
 - Versionamento de código com Git e GitHub.
-- Modelagem inicial de dados para banco relacional.
 
 ---
 
 ## Objetivo profissional
 
-Quero atuar em um time onde eu possa aprender com pessoas mais experientes, evoluir tecnicamente e contribuir com desenvolvimento de sistemas, APIs, automações e interfaces web.
-
-Meu foco atual é entrar no mercado como **Desenvolvedor Júnior** ou **Trainee**, colocando em prática minha base em programação, testes, organização de código e resolução de problemas.
+Quero atuar em um time onde eu possa aprender com pessoas mais experientes, evoluir tecnicamente e contribuir com desenvolvimento de sistemas, APIs e interfaces web — colocando em prática minha base em programação, testes, organização de código e resolução de problemas.
 
 ---
 
